@@ -1,7 +1,6 @@
 # > 037 
 
 🎓 Computer Engineering student @ Chulalongkorn University <br/>
-🎸 <br/>
 
 ---
 
