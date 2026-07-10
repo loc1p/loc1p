@@ -1,11 +1,15 @@
 # Hi, I'm Leo 👋
 
-🎓 Computer Engineering student @ Chulalongkorn University
-🥈 Silver Medalist, Thailand Olympiad in Informatics (TOI)
-🔭 Currently building **FinSight** — a personal finance tracker (Next.js + FastAPI + PostgreSQL + Docker)
-🏆 Team lead for **PhenoRak** — AI platform for NMR metabolomics disease risk screening (BDI Hackathon 2026)
-🌱 Exploring: cloud computing, ML pipelines, agentic AI workflows with Claude Code
-🎸 When not coding: guitar improvisation (pentatonic scales, Thai rock)
+🎓 Computer Engineering student @ Chulalongkorn University <br/>
+🎸 <br/>
+
+---
+
+## 🏅 Achievements
+
+- 🥈 **Silver Medalist**, Thailand Olympiad in Informatics (TOI)
+- 🥈 **1st Runner-up**, BDI Hackathon 2026 
+- 🥉 **3rd Runner-up**, Hackheddee Hackathon
 
 ---
 
