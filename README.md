@@ -6,7 +6,7 @@
 
 - 🥈 **Silver Medalist**, Thailand Olympiad in Informatics (TOI)
 - 🥈 **1st Runner-up**, BDI Hackathon 2026 
-- 🥉 **3rd Runner-up**, Hackheddee Hackathon
+- 🏅 **3rd Runner-up**, Hackheddee Hackathon
 
 ---
 
